@@ -1,6 +1,18 @@
 {
   "name": "next-app",
   "version": "0.1.0",
+  "description": "app description",
+  "keywords": [],
+  "author": "Michal Zajac",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michal99Zajac/next-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Michal99Zajac/next-app/issues"
+  },
+  "homepage": "https://github.com/Michal99Zajac/next-app#readme",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
